@@ -1,0 +1,9 @@
+[submodule "lib/knife"]
+	path = lib/knife
+	url = https://github.com/ghostnear/knife.git
+[submodule "lib/hump"]
+	path = lib/hump
+	url = https://github.com/ghostnear/hump.git
+[submodule "lib/threaded-loader"]
+	path = lib/threaded-loader
+	url = https://github.com/kikito/love-loader.git
